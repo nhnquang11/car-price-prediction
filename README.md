@@ -1,5 +1,5 @@
 ## Install Dependencies
-- python3 -m venv env && pip install -r requirements.txt
+- pip install -r requirements.txt
   
 ## User Interface Demo
 ```bash
